@@ -1,0 +1,7 @@
+{
+  "name": "sapporo-night-selection",
+  "private": true,
+  "dependencies": {
+    "@vercel/blob": "latest"
+  }
+}
