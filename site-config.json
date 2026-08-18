@@ -1,0 +1,41 @@
+{
+  "site": {
+    "kicker": "前夜祭の、その先へ",
+    "lead": "今夜の案内人をひとり選んでください\n店名は最後まで SECRET"
+  },
+  "courses": {
+    "A": {
+      "enabled": true,
+      "name": "佐伯",
+      "role": "王道の夜を知る男",
+      "atmosphere": "華やか・ゴージャス",
+      "excitement": "★★★★★",
+      "sapporo": "★★★★☆",
+      "budget": "8,000〜10,000円",
+      "quote": "札幌の夜は、やっぱり王道が一番。外さない自信、あります",
+      "imageUrl": ""
+    },
+    "B": {
+      "enabled": true,
+      "name": "黒川",
+      "role": "ちょっと深い夜の案内人",
+      "atmosphere": "大人・ディープ",
+      "excitement": "★★★☆☆",
+      "sapporo": "★★★★★",
+      "budget": "8,000〜10,000円",
+      "quote": "普通の夜で終わるなら、わざわざ札幌まで来た意味ないでしょ",
+      "imageUrl": ""
+    },
+    "C": {
+      "enabled": true,
+      "name": "水城",
+      "role": "最後まで騒ぐ男",
+      "atmosphere": "賑やか・パーティー",
+      "excitement": "★★★★★",
+      "sapporo": "★★★☆☆",
+      "budget": "8,000〜10,000円",
+      "quote": "明日のことは明日考えればいい。今日は最後まで行きましょう",
+      "imageUrl": ""
+    }
+  }
+}
